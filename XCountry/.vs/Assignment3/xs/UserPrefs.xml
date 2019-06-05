@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{DC63501D-9167-44B0-AA0C-89BCE67C0D6A}|Default">
+  <MonoDevelop.Ide.ItemProperties.XCountry.IOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9DD6A502-F867-4990-9BD5-CFA5E43F689E" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Views/ProfilePage.xaml.cs">
+    <Files>
+      <File FileName="Assignment3Core/ViewModels/MainViewModel.cs" Line="25" Column="43" />
+      <File FileName="Assignment3/Views/MainPage.xaml" />
+      <File FileName="Assignment3Core/Services/ProfileGetter.cs" Line="11" Column="2" />
+      <File FileName="Assignment3Core/Models/Runner.cs" Line="15" Column="32" />
+      <File FileName="Assignment3Core/Models/Profile.cs" Line="21" Column="1" />
+      <File FileName="Assignment3Core/ViewModels/AboutMeViewModel.cs" Line="24" Column="1" />
+      <File FileName="Assignment3Core/ViewModels/ProfileViewModel.cs" Line="4" Column="27" />
+      <File FileName="Assignment3Core/App.cs" Line="9" Column="2" />
+      <File FileName="Assignment3.iOS/AppDelegate.cs" Line="15" Column="148" />
+      <File FileName="Assignment3/Views/ProfilePage.xaml.cs" Line="3" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment3" expanded="True">
+            <Node name="Assignment3" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="ProfilePage.xaml" expanded="True">
+                  <Node name="ProfilePage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Assignment3.iOS" expanded="True" />
+            <Node name="XCountry.Android" expanded="True" />
+            <Node name="XCountryCore" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XCountry.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

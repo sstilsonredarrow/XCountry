@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DC63501D-9167-44B0-AA0C-89BCE67C0D6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XCountry/Views/AboutPage.xaml.cs">
+    <Files>
+      <File FileName="XCountry/Views/MainPage.xaml" />
+      <File FileName="XCountry/Views/AboutPage.xaml.cs" Line="13" Column="6" />
+      <File FileName="XCountry/Views/AboutPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XCountry" expanded="True">
+            <Node name="XCountry" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True">
+                  <Node name="AboutPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="ItemsPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="XCountry.Android" expanded="True" />
+            <Node name="XCountryCore" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XCountry.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.slappy" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assignment3.iOS/XCountry.IOS.csproj</String>
+    <String>XCountry.iOS/XCountry.IOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

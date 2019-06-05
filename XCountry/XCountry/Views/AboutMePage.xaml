@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<views:MvxContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:views="clr-namespace:MvvmCross.Forms.Views;assembly=MvvmCross.Forms"         
+             x:Class="XCountry.Views.AboutMePage">
+    <ContentPage.Content>
+    <StackLayout Orientation="Vertical">
+            <WebView x:Name="webGuy" HeightRequest="800" Source="{Binding url}" />   
+        </StackLayout>
+    </ContentPage.Content>
+</views:MvxContentPage>
